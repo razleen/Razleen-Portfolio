@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffffff;
+    color: #754a1e;
+}
+
+header {
+    background-color: #ced7ba;
+    padding: 50px;
+    text-align: left;
+    color: #754a1e;
+    text-decoration: none;
+    color: #754a1e;
+    margin-left: 20px;
+    font-weight: bold;
+    font-family: 'Segoe UI', sans-serif;
+    transition: color 0.3s ease;
+}
+
+header h1 {
+    margin: 0;
+    color: #754a1e;
+}
+
+nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #8c6237;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: #754a1e;
+}
+.activities-img {
+    display: block;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 700px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f0f8ff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #754a1e;
+    margin-bottom: 20px;
+}
+
+.activity-list {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.activity-list li {
+    margin-bottom: 12px;
+    line-height: 1.6;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #ced7ba;
+    color: #0a0909;
+    margin-top: 30px;
+}

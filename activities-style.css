@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffffff;
+    color: #333;
+}
+
+header {
+    background-color: #add8e6;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    color: #fff;
+}
+
+.container {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #f0f8ff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #4682b4;
+    margin-bottom: 15px;
+}
+
+.activity-list {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.activity-list li {
+    margin-bottom: 12px;
+    line-height: 1.6;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #add8e6;
+    color: #fff;
+    margin-top: 30px;
+}
